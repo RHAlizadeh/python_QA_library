@@ -18,8 +18,8 @@ A simple Persian Question Answering (QA) desktop application using Hugging Face 
 
 ## Installation
 - Clone the repository:
--- git clone https://github.com/RHAlizadeh/python_QA_library
+- git clone https://github.com/RHAlizadeh/python_QA_library
 - cd python_QA_library
 - Install dependencies:
--- pip install -r requirements.txt
+- pip install -r requirements.txt
 - (Note: You need transformers, torch, and Tkinter installed)
