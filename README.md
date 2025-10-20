@@ -10,6 +10,7 @@ A simple Persian Question Answering (QA) desktop application using Hugging Face 
 
 ## How to Use
 1. Run the application:
+```bash
 - python qa_library.py
 2. Type your question in the input box
 3. Press Enter or click "بپرس" to get the answer
