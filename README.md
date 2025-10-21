@@ -1,4 +1,4 @@
-# python-qa-library
+# QA-library
 
 A simple Persian Question Answering (QA) desktop application using Hugging Face Transformers and Tkinter.
 
